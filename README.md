@@ -1,8 +1,9 @@
 # 자비레스
 
-### / 비트캠프 214기 OOP Base CMD 팀프로젝트 /
-- **팀/프로젝트명:** 자비레스 (Java & DB Restaurant)
+### / 비트캠프 214기 OOP Base CMD 프로젝트 /
+- **팀·프로젝트명:** 자비레스 (Java & DB Restaurant)
 - **팀원:** 김현우, 문가란, 유태우, 차상준
 - **개요:** 주문, 결제, 예약, 메뉴관리, 멤버쉽관리 기능의 레스토랑 포스기 구현
-- **개발스택:**<br />**\[BACK\]** JAVA, JDBC<br />**\[DB\]** Oracle, Exerd
-- **개발환경:** Eclipse
+- **기간:** 2021년 11월 10일 ~ 11월 15일
+- **개발스택:**<br />**\[BACK\]** JAVA, JDBC<br />**\[DB\]** SQL, Exerd
+- **개발환경:** Eclipse, Oracle
