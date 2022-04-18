@@ -1,5 +1,5 @@
 package controller;
-
+//
 public interface Menu {
 	int EXIT = 0;
 
