@@ -1,5 +1,5 @@
 package controller;
-//
+
 public class BadInputException extends Exception {
 
 	public BadInputException() {
