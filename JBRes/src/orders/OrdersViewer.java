@@ -1,5 +1,7 @@
 package orders;
 
+// Garan - 테이블 현황/영수증 출력
+
 import java.sql.Connection;
 import java.sql.SQLException;
 import java.text.SimpleDateFormat;
@@ -176,7 +178,7 @@ public class OrdersViewer {
 
 
 
-							// 문가란 =========================================================================================
+							// Garan - 영수증 출력 ==============================================================================
 							System.out.println();
 							System.out.println();
 							System.out.println("──────────────────────────────────");
@@ -269,7 +271,7 @@ public class OrdersViewer {
 
 
 
-			// 문가란 =========================================================================================
+			// Garan - 테이블 현황 출력 ==========================================================================
 			String fname = null;
 			for (int i = 1; i <= 5; i++) {
 				System.out.println();
